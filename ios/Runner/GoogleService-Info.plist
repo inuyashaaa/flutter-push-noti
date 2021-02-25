@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>1053177425216-s3no020eguk5is7r729r82oehakbmu1f.apps.googleusercontent.com</string>
+	<string>550988247754-4bguubd1svc4jbbfe4h82vfl770huh4s.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1053177425216-s3no020eguk5is7r729r82oehakbmu1f</string>
+	<string>com.googleusercontent.apps.550988247754-4bguubd1svc4jbbfe4h82vfl770huh4s</string>
 	<key>API_KEY</key>
-	<string>AIzaSyA2fNYzTo5wFUQ4vOWzK0mYaGZOoG41iE0</string>
+	<string>AIzaSyCnIHbiCDm4nru8AuMol2UA_O18rQu6MGA</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1053177425216</string>
+	<string>550988247754</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>dev.huymanh.noti</string>
+	<string>us.originally.flutternoti</string>
 	<key>PROJECT_ID</key>
-	<string>noti-flutter</string>
+	<string>flutter-noti-51393</string>
 	<key>STORAGE_BUCKET</key>
-	<string>noti-flutter.appspot.com</string>
+	<string>flutter-noti-51393.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1053177425216:ios:ade0ee62969f8d0f58dea5</string>
+	<string>1:550988247754:ios:de19b49b31fa9378803a33</string>
 </dict>
 </plist>

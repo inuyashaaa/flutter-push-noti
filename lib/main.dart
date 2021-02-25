@@ -33,8 +33,8 @@ class _PushMessagingExampleState extends State<PushMessagingExample> {
         print("onResume: $message");
       },
     );
-    _firebaseMessaging
-        .requestNotificationPermissions(const IosNotificationSettings(sound: true, badge: true, alert: true));
+    _firebaseMessaging.requestNotificationPermissions(
+        const IosNotificationSettings(sound: true, badge: true, alert: true, provisional: false));
     _firebaseMessaging.onIosSettingsRegistered.listen((IosNotificationSettings settings) {
       print("Settings registered: $settings");
     });
